@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icons / games</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-games" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 10.000000)">
+            <path d="M37,50 C33,50 34,50 29,50 M10.3255178,41.8640845 C10.5232561,40.3047241 10.761628,38.9534879 11,38 C12,34 15.9009337,23.677674 22,23 C31,22 32,27 37,27" id="Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M25.2206624,51.5154596 C17,65 13.1547005,61 11.1547005,57 C9.92139228,54.5333835 9.65520534,50.5074244 10,46" id="Path" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M64.1547005,50 C60.1547005,50 61.1547005,50 56.1547005,50 C51.1547005,50 49.0191706,56.4086277 46.1547005,58 C43.2902305,59.5913723 40.1547005,61 38.1547005,57 C36.1547005,53 37.1547005,42 38.1547005,38 C39.1547005,34 43.0556342,23.677674 49.1547005,23 C58.1547005,22 59.1547005,27 64.1547005,27" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.577350, 41.233651) scale(-1, 1) translate(-50.577350, -41.233651) "></path>
+            <circle id="Oval" stroke="#00EAC7" stroke-width="2" fill="#D8D8D8" cx="47" cy="33" r="1"></circle>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="47" cy="43" r="1"></circle>
+            <circle id="Oval" stroke="#FFFFFF" cx="55" cy="38" r="2"></circle>
+            <polygon id="+" stroke="#00EAC7" fill="#00EAC7" fill-rule="nonzero" stroke-linejoin="round" points="13.6543768 5.563 13.6543768 10.7442627 18.689 10.7442627 18.689 12.3817373 13.6543768 12.3817373 13.6543768 17.563 11.7236232 17.563 11.7236232 12.3817373 6.689 12.3817373 6.689 10.7442627 11.7236232 10.7442627 11.7236232 5.563"></polygon>
+            <path d="M27.0458248,36.1812627 L32.5,36.1812627 L32.5,38.8187373 L27.0458248,38.8187373 L27.0458248,44 L23.9541752,44 L23.9541752,38.8187373 L18.5,38.8187373 L18.5,36.1812627 L23.9541752,36.1812627 L23.9541752,31 L27.0458248,31 L27.0458248,36.1812627 Z" id="+" stroke="#00EAC7" stroke-linejoin="round" fill-rule="nonzero"></path>
+            <polygon id="+" stroke="#FFFFFF" stroke-linejoin="round" fill-rule="nonzero" points="37.4826884 62 37.4826884 64.5906314 40 64.5906314 40 65.4093686 37.4826884 65.4093686 37.4826884 68 36.5173116 68 36.5173116 65.4093686 34 65.4093686 34 64.5906314 36.5173116 64.5906314 36.5173116 62"></polygon>
+            <polygon id="+" fill-opacity="0.485003278" fill="#00EAC7" fill-rule="nonzero" points="22.4826884 0 22.4826884 2.59063136 25 2.59063136 25 3.40936864 22.4826884 3.40936864 22.4826884 6 21.5173116 6 21.5173116 3.40936864 19 3.40936864 19 2.59063136 21.5173116 2.59063136 21.5173116 0"></polygon>
+            <polygon id="-" fill="#FFFFFF" fill-rule="nonzero" points="66 16.048 74 16.048 74 17.952 66 17.952"></polygon>
+            <polygon id="-" fill-opacity="0.492843094" fill="#00EAC7" fill-rule="nonzero" points="55 73.096 71 73.096 71 76.904 66 76.904 55 76.904"></polygon>
+            <polygon id="-" fill="#FFFFFF" fill-rule="nonzero" points="0 6.024 4 6.024 4 6.976 0 6.976"></polygon>
+        </g>
+    </g>
+</svg>

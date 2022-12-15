@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icons / smart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-smart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(15.000000, 14.000000)">
+            <path d="M48,39.5 L37.5,27.5" id="Stroke-4" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M36.8037,7.7974 C42.0168656,7.7044 46.7602173,9.8574 50.8755123,11.7254 C54.585863,13.4094 58.0898102,15.0004 61.5682025,15.0004 L65.4997,15.0004" id="Stroke-5" stroke="#00EAC7" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M32.84375,24 L27.8958333,28 C21.9583333,32 18,25 18,25 C18,25 26.90625,18 29.875,16 C40.7604167,9 49.6666667,21 61.5416667,21 L65.5,21 L65.5,48 L61.2259896,46 C58.5729167,48 55.6041667,48 55.6041667,48 L50.9264062,43.067" id="Stroke-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,1 L27,1" id="Line" stroke="#00EAC7" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="9" cy="1" r="1"></circle>
+            <path d="M30,44 L41.691874,55.95 C42.9895834,57.317 45.0932586,57.317 46.390968,55.95 C47.6886773,54.583 47.6886773,52.367 46.390968,51" id="Stroke-9" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M38,42 L47.5834537,51.918 C48.9044763,53.284 51.0459438,53.284 52.366,51.918" id="Stroke-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M29,52.861 L32.909149,56.974 C34.2074465,58.34 36.3145662,58.34 37.6138141,56.974 C38.913062,55.607 38.913062,53.391 37.6138141,52.024 L29.986554,44" id="Stroke-13" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M1,20 L7.87037037,20 C7.87037037,20 10.8148148,17 15.7222222,17 L27.5,17" id="Stroke-15" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M0.25,45.5 L0.25,25.5" id="Stroke-17" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M33.0635,62.9502 C31.2495334,64.8022 28.8664985,65.7272 26.4834636,65.7272 C24.1014082,65.7272 21.7193527,64.8032 19.9053861,62.9522 L9.2165,52.0992" id="Stroke-19" stroke="#00EAC7" opacity="0.6" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M21.9745418,45.732 L29.8412391,53.757 C31.1822536,55.125 31.1822536,57.34 29.8412391,58.708 C28.5012048,60.074 26.3289181,60.074 24.9888838,58.708 L22.6705362,56.341 L16.6330299,50.232 C14.1823454,47.732 11.8816428,45 8.9408214,45 L6,45" id="Stroke-21" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icons / economy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-economy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M43.6943,66.6641 C35.0473,65.1191 28.1913,58.4051 26.4363,49.8331" id="Stroke-2" stroke="#00EAC7"></path>
+        <path d="M67.8799,38.6338 C68.6069,40.7898 68.9999,43.0988 68.9999,45.4998 C68.9999,57.3738 59.3739,66.9998 47.4999,66.9998" id="Stroke-4" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M20,45.5 C20,30.336 32.337,18 47.5,18" id="Stroke-6" stroke="#00EAC7"></path>
+        <path d="M26,45.5 C26,33.626 35.626,24 47.5,24 C53.437,24 58.813,26.406 62.703,30.297" id="Stroke-8" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M20.2939,49.5 C22.0459,61.467 31.5329,70.954 43.4999,72.706" id="Stroke-10" stroke="#FFFFFF"></path>
+        <path d="M14.2471,49.5 C16.0741,64.779 28.2211,76.926 43.5001,78.753" id="Stroke-12" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M80.3701,34.0859 L52.9551,61.4999" id="Stroke-14" stroke="#00EAC7"></path>
+        <polyline id="Stroke-16" stroke="#FFFFFF" stroke-width="2" points="47.8428 45.3994 37.2368 34.7934 30.8728 41.1564 41.4798 51.7634 47.8428 58.1274 54.2068 51.7634 76.1268 29.8434"></polyline>
+        <path d="M69.7637,23.479 L47.8427,45.399" id="Stroke-18" stroke="#FFFFFF" stroke-width="2"></path>
+    </g>
+</svg>

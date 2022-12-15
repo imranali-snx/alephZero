@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icons / automatic tax payments</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-automatic-tax-payments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M67.5,59.5 L73.5,59.5 C75.1568542,59.5 76.5,60.7488899 76.5,62.2894737 L76.5,76.7105263 C76.5,78.2511101 75.1568542,79.5 73.5,79.5 L54.5,79.5 C52.8431458,79.5 51.5,78.2511101 51.5,76.7105263" id="Rectangle" stroke="#FFFFFF" stroke-linecap="round" transform="translate(64.000000, 69.500000) scale(-1, -1) rotate(90.000000) translate(-64.000000, -69.500000) "></path>
+        <path d="M26,20 L52,20 C53.6568542,20 55,20.9896863 55,22.2105263 C55,40.1754386 55,52.1052632 55,58" id="Rectangle" stroke="#FFFFFF" stroke-linecap="round" transform="translate(40.500000, 39.000000) scale(-1, 1) translate(-40.500000, -39.000000) "></path>
+        <path d="M54,64 C54,72 54,74.6666667 54,72 C54,73.6568542 52.6568542,75 51,75 L26,75" id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" transform="translate(40.000000, 69.500000) scale(-1, 1) translate(-40.000000, -69.500000) "></path>
+        <path d="M65,71 C65,79 65,81.6666667 65,79 C65,80.6568542 63.6568542,82 62,82 C57.7712362,82 55.1045695,82 54,82" id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" transform="translate(59.500000, 76.500000) scale(-1, 1) translate(-59.500000, -76.500000) "></path>
+        <path d="M55,21 L60,21 C61.6568542,21 63,22.0745166 63,23.4 C63,24.4666667 63,26.3333333 63,29" id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" transform="translate(59.000000, 25.000000) scale(-1, -1) translate(-59.000000, -25.000000) "></path>
+        <polyline id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="55 20 64 29 64 53"></polyline>
+        <circle id="Oval" stroke="#FFFFFF" cx="49" cy="48" r="3.5"></circle>
+        <circle id="Oval" stroke="#FFFFFF" cx="41" cy="40" r="3.5"></circle>
+        <path d="M34,27.5 L24,27.5 C22.3431458,27.5 21,26.1568542 21,24.5 L21,14" id="Rectangle" stroke="#00EAC7" stroke-linecap="round" stroke-linejoin="round" transform="translate(27.500000, 20.750000) scale(1, -1) translate(-27.500000, -20.750000) "></path>
+        <path d="M51,38 L39,50" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M45,80 L50,80" id="Line" stroke="#00EAC7" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M58,69.5 L60,69.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M63,69.5 L65,69.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M68,69.5 L70,69.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M58,72.5 L60,72.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M63,72.5 L65,72.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M68,72.5 L70,72.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M58,75.5 L60,75.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M63,75.5 L65,75.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M68,75.5 L70,75.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M58.5,63 L69.5,63" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>
