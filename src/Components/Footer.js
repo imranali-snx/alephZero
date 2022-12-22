@@ -64,7 +64,7 @@ const Footer = () => {
 
   return (
     <>
-      <div className="grid grid-cols-6 gap-40  container mx-auto px-11 mt-20">
+      <div className="grid grid-cols-6 gap-40  container mx-auto px-11 mt-60">
         <div className="col-span-2 footer_left">
           <h3 className="text-white pl-4 text-3xl border-solid border-l-2 border-[#00EAC7]	">
             Be <span className="font-bold">Future Ready</span>

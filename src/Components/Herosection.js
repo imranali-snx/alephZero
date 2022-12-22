@@ -2,11 +2,11 @@ import React from "react";
 
 const Herosection = () => {
   return (
-    <div className=" container py-12 mx-auto">
-      <div className=" ml-5 mr-5 h-[690px] flex">
+    <div className=" py-12 ">
+      <div className="  flex">
         <iframe
           src="https://fast.wistia.com/embed/medias/26rzfjtw60"
-          className="aspect-video w-full h-full"
+          className="aspect-[16/9] w-full h-full"
         ></iframe>
       </div>
     </div>

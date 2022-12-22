@@ -1,6 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const Feature = () => {
+  useEffect(() => {
+    Aos.init({
+      once: true,
+      duration: 1200,
+      });
+  }, []);
   const data = [
     {
       heading: "0.9 sec",
@@ -24,7 +32,10 @@ const Feature = () => {
     },
   ];
   return (
-    <div className="flex flex-row justify-evenly items-center my-32 text-center ">
+    <div
+      className="flex flex-row justify-evenly items-center my-32 text-center "
+      data-aos="zoom-in"
+    >
       {data.map((items) => {
         return (
           <div className="flex flex-col justify-center items-center gap-7 text-center">

@@ -1,5 +1,5 @@
 import React from "react";
-import { Menu } from "antd";
+import { Col, Menu, Row } from "antd";
 import { useState } from "react";
 import "../App.css";
 import {
@@ -7,6 +7,7 @@ import {
   AppstoreOutlined,
   SettingOutlined,
 } from "@ant-design/icons";
+import Column from "antd/es/table/Column";
 // const items = [
 //   {
 //     label: "Explore ",
@@ -57,48 +58,61 @@ const Topheader = () => {
   //   };
   return (
     // <Menu
-      //   onClick={onClick}
-      //   selectedKeys={[current]}
-      //   mode="horizontal"
-      //   items={items}
+    //   onClick={onClick}
+    //   selectedKeys={[current]}
+    //   mode="horizontal"
+    //   items={items}
     // />
-    <Menu mode="horizontal">
-      <Menu.SubMenu key="explore" title="Explore">
-        <Menu.Item key="1" icon={<AppstoreOutlined />}>
-          Navigation Two
-        </Menu.Item>
-        <Menu.Item key="2" icon={<AppstoreOutlined />}>
-          Navigation Three
-        </Menu.Item>
-      </Menu.SubMenu>
-
-      <Menu.SubMenu key="learn" title="Learn">
-        <Menu.Item key="11" icon={<AppstoreOutlined />}>
-          Navigation Two
-        </Menu.Item>
-        <Menu.Item key="22" icon={<AppstoreOutlined />}>
-          Navigation Three
-        </Menu.Item>
-      </Menu.SubMenu>
-
-      <Menu.SubMenu key="verify" title="Verify">
-        <Menu.Item key="111" icon={<AppstoreOutlined />}>
-          Navigation Two
-        </Menu.Item>
-        <Menu.Item key="222" icon={<AppstoreOutlined />}>
-          Navigation Three
-        </Menu.Item>
-      </Menu.SubMenu>
-
-      <Menu.SubMenu key="meet" title="Meet Us">
-        <Menu.Item key="1111" icon={<AppstoreOutlined />}>
-          Navigation Two
-        </Menu.Item>
-        <Menu.Item key="2222" icon={<AppstoreOutlined />}>
-          Navigation Three
-        </Menu.Item>
-      </Menu.SubMenu>
-    </Menu>
+    <Row>
+        <Col>
+        <Menu mode="horizontal">
+          <Menu.SubMenu key="explore" title="Explore">
+            <Menu.Item key="1" icon={<AppstoreOutlined />}>
+              Navigation Two
+            </Menu.Item>
+            <Menu.Item key="2" icon={<AppstoreOutlined />}>
+              Navigation Three
+            </Menu.Item>
+          </Menu.SubMenu>
+          </Menu>
+        </Col>
+        <Col>
+        <Menu mode="horizontal">
+          <Menu.SubMenu key="learn" title="Learn">
+            <Menu.Item key="11" icon={<AppstoreOutlined />}>
+              Navigation Two
+            </Menu.Item>
+            <Menu.Item key="22" icon={<AppstoreOutlined />}>
+              Navigation Three
+            </Menu.Item>
+          </Menu.SubMenu>
+          </Menu>
+        </Col>
+        <Col>
+        <Menu mode="horizontal">
+          <Menu.SubMenu key="verify" title="Verify">
+            <Menu.Item key="111" icon={<AppstoreOutlined />}>
+              Navigation Two
+            </Menu.Item>
+            <Menu.Item key="222" icon={<AppstoreOutlined />}>
+              Navigation Three
+            </Menu.Item>
+          </Menu.SubMenu>
+          </Menu>
+        </Col>
+        <Col>
+        <Menu mode="horizontal">
+          <Menu.SubMenu key="meet" title="Meet Us">
+            <Menu.Item key="1111" icon={<AppstoreOutlined />}>
+              Navigation Two
+            </Menu.Item>
+            <Menu.Item key="2222" icon={<AppstoreOutlined />}>
+              Navigation Three
+            </Menu.Item>
+          </Menu.SubMenu>
+          </Menu>
+        </Col>
+    </Row>
   );
 };
 

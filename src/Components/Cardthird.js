@@ -3,6 +3,7 @@ import imgcardl from '../images/cardimgleftside.jpg'
 import Cardimg from './Cardimg'
 const Cardthird = () => {
     const [condition, setCondition ] = useState("leftside")
+    const [first, setFirst]=useState("fade-right");
 
     const data =[
         {
@@ -17,7 +18,7 @@ const Cardthird = () => {
     {
         data.map((items,keys)=>{
             return(
-                <Cardimg items={items} value={condition} />
+                <Cardimg items={items} value={condition}  effect={first}/>
             )
 
         })

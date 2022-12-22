@@ -1,16 +1,24 @@
-import React from "react";
+import React, { useEffect } from "react";
 import cam from "../images/cam.svg";
 import flower from "../images/flower.svg";
 import hand from "../images/hand.svg";
 import Blocklist from "./Blocklist";
 import overimg from "../images/overlay.png";
 import overimg2 from "../images/overlay2.png";
+import Aos from "aos";
+import "aos/dist/aos.css";
 import {
   MouseParallaxChild,
   MouseParallaxContainer,
 } from "react-parallax-mouse";
 
 const Blocks = () => {
+  useEffect(() => {
+    Aos.init({
+      once: true,
+      duration: 1200,
+      });
+  }, []);
   const data = [
     {
       img: cam,
@@ -30,37 +38,29 @@ const Blocks = () => {
   ];
   return (
     <>
-      <div className="backgroundimage">
-        <MouseParallaxContainer
-          globalFactorX={0.1}
-          globalFactorY={0}
-          resetOnLeave
-        >
+      <MouseParallaxContainer
+        globalFactorX={0.3}
+        globalFactorY={0}
+        resetOnLeave
+      >
+        <div className="backgroundimage overflow-hidden">
           <MouseParallaxChild factorX={-0.5} factorY={0}>
-            <img src={overimg} className="w-[60%] mx-[33%] h-[65%]" />
+            <img src={overimg} className="w-[45%] h-[45%] ml-[27%]" />
           </MouseParallaxChild>
-        </MouseParallaxContainer>
-      </div>
+        </div>
 
-      <div className="flex flex-row w-full justify-center items-center gap-5">
-        {data.map((items) => {
-          return <Blocklist items={items} />;
-        })}
-      </div>
-      <div className="backgroundimagedown mb-10 overflow-hidden">
-        <MouseParallaxContainer
-          globalFactorX={0.1}
-          globalFactorY={0}
-          resetOnLeave
-        >
+        <div className="flex flex-row w-full justify-center items-center gap-5" >
+          {data.map((items) => {
+            return <Blocklist items={items} />;
+          })}
+        </div>
+
+        <div className="backgroundimagedown mb-20 overflow-hidden">
           <MouseParallaxChild factorX={0.5} factorY={0}>
-            <img
-              src={overimg2}
-              className="w-[60%]  mx-[33%] rotateimg h-[65%]"
-            />
+            <img src={overimg2} className="w-[45%]  rotateimg h-[45%] relative left-[350px]" />
           </MouseParallaxChild>
-        </MouseParallaxContainer>
-      </div>
+        </div>
+      </MouseParallaxContainer>
     </>
   );
 };
