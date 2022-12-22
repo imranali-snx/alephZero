@@ -306,6 +306,13 @@ body {
   background-color: #0f171f !important;
   /* color: white; */
 }
+.ant-input-affix-wrapper{
+  background-color: #ffffff00 !important;
+  border-color: #16232E !important;
+}
+.ant-input-affix-wrapper:hover{
+  border-color: #16232E !important;
+}
 .ant-input::placeholder {
   color: white;
 }
